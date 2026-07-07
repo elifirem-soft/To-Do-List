@@ -1,5 +1,4 @@
 # To-Do-List
-React kullanarak yaptığım to-do list uygulaması
 
 Kullanıcıların günlük görevlerini dinamik olarak eklemesini, düzenlemesini ve listelemesini sağlayan, tarayıcı hafızasıyla (Local Storage) entegre çalışan modern ve minimalist bir yapılacaklar listesi uygulamasıdır.
 
